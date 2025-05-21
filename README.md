@@ -1,9 +1,9 @@
 # MalAut — Automatic Multi-Part Mould Generator
 
 MalAut is a procedural toolset for automatically generating multi-part moulds from 3D geometry. It was developed as the final outcome of the **Digital Design Techniques III** course, and explores the boundaries of computational mould design. The project demonstrates how occlusion logic, isocurve-based segmentation, and voxel workflows can be combined to split complex shapes into manufacturable parts.
-
+w
 All code was written in **Rhino 8** using **Grasshopper**, and relies on the following plugins:
-**Nautilus**, **Stripper**, **Mesh+**, **Galapagos**, **Kangaroo2**, **TT Toolbox**, **Lunchbox**, **Axolotl**, and **Dendro**.
+**Nautilus**, **Stripper**, **Mesh+**, **Galapagos**, **Kangaroo2**, **TT Toolbox**, **Lunchbox**, **Axolotl**, **Fennec**, **Weaverbird**, **Heteropta**, **BlueOrange**, **PeaCock**, **Anemone**, **NGon**, **GeoSpiza**, **Possum**, and **Dendro**.
 
 ---
 
