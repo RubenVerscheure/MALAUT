@@ -29,9 +29,9 @@ Includes final mould designs for three example shapes:
 Images of these variants are provided below:
 
 <div align="center">
-  <img src="path/to/simple_tetrapod.png" width="250" alt="Simple Tetrapod"/>
-  <img src="path/to/asym_tetrapod.png" width="250" alt="Asymmetrical Tetrapod"/>
-  <img src="path/to/complex_tetrapod.png" width="250" alt="Complex Tetrapod"/>
+  <img src="Prototypes/SimpleTetrapod.png" width="250" alt="Simple Tetrapod"/>
+  <img src="Prototypes/AsymTetrapod.png" width="250" alt="Asymmetrical Tetrapod"/>
+  <img src="Prototypes/AsymTetrapod.png" width="250" alt="Complex Tetrapod"/>
 </div>
 
 ### `Prototypes`
